@@ -1,0 +1,1 @@
+# FXroad-safe-to-invest
