@@ -86,7 +86,6 @@ Pros:
 - Educational Resources: The broker provides educational resources to help new traders improve their skills.
 
 Cons:
-- Lack of Regulation: FXroad is not regulated by any major financial authority, which increases the risk for traders.
 - Limited Customer Reviews: There is a lack of comprehensive reviews from experienced traders, which makes it hard to gauge the overall reliability of the platform.
 - Webtrader Limitations: While Webtrader is convenient, it may lack the advanced features that other platforms, such as MT4 or MT5, offer.
 - Slow Withdrawal Process: Some unregulated brokers experience delays in processing withdrawals, which could be a concern for traders looking for quick access to their funds.
