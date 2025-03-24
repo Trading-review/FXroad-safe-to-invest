@@ -52,6 +52,7 @@ One of the most important factors when choosing a broker is its regulatory frame
 
 
 **2. Platform and Security Measures**
+
 A crucial aspect of any trading platform is how it protects user data and secures financial transactions. FXroad uses SSL encryption to protect data transmitted between users and the platform, which is a standard security feature in the industry. This means that your sensitive information, such as login credentials and payment details, is encrypted and less likely to be intercepted.
 However, the platform's overall security also depends on how well it safeguards client funds. Regulated brokers are required to keep client funds in separate accounts to prevent misuse, while unregulated brokers may not have the same protection measures in place.
 
